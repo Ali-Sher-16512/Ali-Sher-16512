@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Ali Sher Mir.
-I am currently a sophomore at Bilkent University studying Computer Engineering.
+I am currently a senior at Bilkent University studying Computer Engineering.
 My main interests are Artificial Intelligence and software development.
 <!--
 **Ali-Sher-16512/Ali-Sher-16512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
